@@ -1,0 +1,33 @@
+https://github.com/adrianhajdin/project_openai_codex
+npm create vite@latest client --template vanilla
+
+
+--server side
+npm install -g nodemon --save-dev
+
+npm install -g express
+
+npm run server
+
+--client side
+
+npm install
+npm run dev
+
+
+
+http://localhost:5000 --server
+http://localhost:5173 --client
+
+
+
+list of Wellsfargo branches in chandler , arizona 85286
+
+write SQL to get list of customers whose state is 'CA' and age is less than 50 
+
+python function to reverse a string
+
+give me text summary in 1 line   of  following text "..."
+
+
+Write a creative ad in 1 line  to launch new product "Bank wallet" as a competition to existing payment wallets:
